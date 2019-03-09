@@ -36,8 +36,8 @@
 
  .sun{
      background-color: #ff8c1a;
-     width: 100px;
-     height: 100px;
+     width: 80px;
+     height: 80px;
      border-radius: 50%;
      position: absolute;
      left: 50%;
@@ -53,8 +53,8 @@
 
  .moon{
     background-color: transparent;
-    width: 100px;
-    height: 100px;
+    width: 80px;
+    height: 80px;
     border-radius: 50%;
     position: absolute;
     left: 10%;
